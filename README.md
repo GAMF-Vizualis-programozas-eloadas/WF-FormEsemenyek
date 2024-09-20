@@ -1,2 +1,2 @@
-# WF-FormEsemenyek
-Windows Forms - Form események 
+# WF-ParbeszedablakokVezerlok
+Windows Forms - Párbeszédablakok és vezérlők
